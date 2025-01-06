@@ -8,11 +8,12 @@ Find the number that occurs twice and the number that is missing and return them
 
  
 
-Example 1:<br>
+Example 1:
+
 Input: nums = [1,2,2,4]
 Output: [2,3]
-<br>
-Example 2:<br>
+Example 2:
+
 Input: nums = [1,1]
 Output: [1,2]
  

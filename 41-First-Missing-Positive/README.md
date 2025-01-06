@@ -12,7 +12,7 @@
 
 <pre>
 <strong>Input:</strong> nums = [3,4,-1,1]
-<strong>Output:</strong></pre>  2
+<strong>Output:</strong> 2
 <strong>Explanation:</strong> 1 is in the array but 2 is missing.
 </pre>
 
@@ -20,7 +20,7 @@
 
 <pre>
 <strong>Input:</strong> nums = [7,8,9,11,12]
-<strong>Output:</strong></pre> 1
+<strong>Output:</strong> 1
 <strong>Explanation:</strong> The smallest positive integer 1 is missing.
 </pre>
 
@@ -30,5 +30,5 @@
 
 <ul>
 	<li><code>1 <= nums.length <= 105</code></li>
-	<li><code></code>-231 <= nums[i] <= 231 - 1</li>
+	<li><code>-231 <= nums[i] <= 231 - 1</code></li>
 </ul>

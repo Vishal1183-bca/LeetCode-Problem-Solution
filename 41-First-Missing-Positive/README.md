@@ -3,7 +3,7 @@
 You must implement an algorithm that runs in O(n) time and uses O(1) auxiliary space. </p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [1,2,0]

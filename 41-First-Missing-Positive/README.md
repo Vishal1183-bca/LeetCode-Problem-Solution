@@ -7,21 +7,21 @@ You must implement an algorithm that runs in O(n) time and uses O(1) auxiliary s
 
 <pre>
 <strong>Input:</strong> nums = [1,2,0]
-<strong>Output:</strong> &quot;bab&quot;
-<strong>Explanation:</strong> &quot;aba&quot; is also a valid answer.
-</pre>
+Output: 3
+Explanation: The numbers in the range [1,2] are all in the array.
+Example 2:
 
-<p><strong class="example">Example 2:</strong></p>
+Input: nums = [3,4,-1,1]
+Output: 2
+Explanation: 1 is in the array but 2 is missing.
+Example 3:
 
-<pre>
-<strong>Input:</strong> s = &quot;cbbd&quot;
-<strong>Output:</strong> &quot;bb&quot;
-</pre>
+Input: nums = [7,8,9,11,12]
+Output: 1
+Explanation: The smallest positive integer 1 is missing.
+ 
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Constraints:
 
-<ul>
-	<li><code>1 &lt;= s.length &lt;= 1000</code></li>
-	<li><code>s</code> consist of only digits and English letters.</li>
-</ul>
+1 <= nums.length <= 105
+-231 <= nums[i] <= 231 - 1
